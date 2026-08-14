@@ -1,0 +1,16 @@
+{
+  "name": "m4tch-666ax",
+  "version": "0.1.0",
+  "description": "M4TCH-666AX — clean-room match-3 core (deterministic).",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "vitest": "^2.0.0"
+  },
+  "license": "MIT"
+}
